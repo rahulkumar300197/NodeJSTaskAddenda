@@ -1,0 +1,16 @@
+{
+    "PORT": 3000,
+    "databaseSettings": {
+        "mysql": {
+            "MYSQL_END_POINT": "localhost",
+            "MYSQL_USER": "root",
+            "MYSQL_PASS": "qwerty@123",
+            "SQL_DATABASE_NAME": "user-contacts",
+            "MYSQL_PORT": "3306"
+        }
+    },
+    "authSettings": {
+        "authKey": "poiuytrewq@0987654321",
+        "saltRounds": 10
+    }
+}
